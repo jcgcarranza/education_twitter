@@ -7,4 +7,4 @@ There are four code files:
 3. education_degree_glove_features_02: To run the experiments for education prediction using GloVe word vectors
 4. education_degree_length_features_02: To run the experiments for education prediction using the average length of tweets
 
-The folder /data contains the data used for the experiments in the paper: "Predicción Automática del Nivel Educativo en Usuarios de Twitter en México Automated Prediction of Educational Level in Twitter Users in México"
+The folder /data/ contains the data used for the experiments in the paper: "Predicción Automática del Nivel Educativo en Usuarios de Twitter en México Automated Prediction of Educational Level in Twitter Users in México"
